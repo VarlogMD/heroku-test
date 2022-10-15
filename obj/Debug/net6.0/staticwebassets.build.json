@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4IzouoGT0zNpYx1VnBdM4BhObysyXT0YbH9rO/fGo9g=",
+  "Source": "heroku-test",
+  "BasePath": "_content/heroku-test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
